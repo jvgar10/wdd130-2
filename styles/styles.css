@@ -3,8 +3,10 @@
 <head>
     <title>BYUI</title>
     <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
+    <div id="content">
     <header>
     <nav>
     #active {
@@ -15,7 +17,7 @@
     <a href="https://www.churchofjesuschrist.org">Church of Jesus Christ</a>
     <a href="https://www.churchofjesuschrist.org/temples">Temples</a>
     <a href="https://www.churchofjesuschrist.org/study/scriptures">Scriptures</a>
-</nav>
+    </nav>
     </header>
     <main>
         <h1>Brigham Young University Idaho</h1>
@@ -29,5 +31,6 @@
     <footer>
         <p>My Web Page 20XX &copy</p>
     </footer>
+    </div>
 </body>
 </html>
