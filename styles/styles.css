@@ -21,6 +21,11 @@ nav a:hover {
   background-color: black;
   color: #457b9d;
 }  
+.book, .join {  
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+}
 .icon {
   width: 80px;
 }
@@ -30,12 +35,6 @@ nav a {
   color: #1d3557;
   text-decoration: none;
 }  
-
-.book, .join {  
-  text-align: center;
-  color: #fcfbfb;
-  text-decoration: none;
-}
 
 footer a {     
   text-align: center;
