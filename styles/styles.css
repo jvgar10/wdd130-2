@@ -32,8 +32,8 @@ nav a {
 }    
 footer p {
   font-size: 1.4em;
-   margin: 0 auto;
-   text-align: left;
+  margin: 0 auto;
+  text-align: left;
 }    
 footer p a:hover {
   text-decoration: underline;
@@ -42,4 +42,8 @@ footer a {
   font-size: 1.4em;
   margin: 0 auto;
   text-align: left;
+}
+footer img { 
+  margin: 0 auto;
+  max-width: 300px;
 }
