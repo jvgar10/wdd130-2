@@ -29,7 +29,11 @@ nav a:hover {
 .icon {
   width: 80px;
 }
-#hero-img{width: 100%;}
+#hero-img{
+  width: 100%;
+}
+logo {width: 80%;
+}
 nav a {
   text-align: center;
   color: #1d3557;
