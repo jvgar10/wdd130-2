@@ -32,6 +32,18 @@ nav a {
   text-decoration: none;
 }  
 
+.book, .join{ 
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+}
+footer a {     
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+} 
+
+
 footer p {
   font-size: 1.4em;
   margin: 0 auto;
