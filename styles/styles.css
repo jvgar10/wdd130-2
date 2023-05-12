@@ -38,7 +38,7 @@ footer p {
   text-align: left;
 }    
 footer p a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 footer a {
   font-size: 1.4em;
