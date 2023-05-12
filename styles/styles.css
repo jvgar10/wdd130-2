@@ -27,7 +27,10 @@ nav a:hover {
   text-decoration: none;
 }
 .icon {
-  width: 100px;
+  width: 80px;
+}
+.logo{width: 100%;
+
 }
 
 nav a {
