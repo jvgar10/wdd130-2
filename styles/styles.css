@@ -35,6 +35,7 @@ footer p {
 }    
 footer p a:hover {
   text-decoration: underline;
+  margin: 0 auto;
   text-align: left;
 }    
      
