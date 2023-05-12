@@ -6,3 +6,9 @@
 #background {
     height: 725px;
 }
+
+
+nav a:hover {
+  background-color: black;
+  color: #457b9d;
+}    
