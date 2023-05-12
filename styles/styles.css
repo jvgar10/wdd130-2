@@ -45,5 +45,6 @@ footer a {
 }
 footer img { 
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 250px;
+  text-align: left;
 }
