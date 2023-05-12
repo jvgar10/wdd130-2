@@ -38,3 +38,8 @@ footer p {
 footer p a:hover {
   text-decoration: underline;
 }
+footer a {
+  font-size: 1.4em;
+  margin: 0 auto;
+  text-align: left;
+}
