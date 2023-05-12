@@ -7,6 +7,15 @@
     height: 725px;
 }
 
+body {
+  background-color: #a8dadc; 
+}
+header {
+  background-color:rgba(28, 40, 20, 0.7);
+}
+nav a:hover {
+  background-color: black;
+}
 
 nav a:hover {
   background-color: black;
