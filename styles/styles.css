@@ -31,6 +31,12 @@ nav a {
   text-decoration: none;
 }  
 
+.book, .join {  
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+}
+
 footer a {     
   text-align: center;
   color: #1d3557;
