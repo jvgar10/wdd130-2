@@ -31,11 +31,8 @@ nav a {
   text-decoration: none;
 }    
 footer p {
-  font-size: 1.4em;
+  font-size: 1.4em
 }    
 footer p a:hover {
   text-decoration: underline;
-  margin: 0 auto;
-  text-align: left;
-}    
-     
+}
