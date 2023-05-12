@@ -22,6 +22,10 @@ nav a:hover {
   color: #457b9d;
 }  
 
+.home-title {
+  background-color: black;
+  color: #457b9d;
+}
 .icon {
   width: 80px;
 }
