@@ -1,3 +1,4 @@
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -58,4 +59,25 @@ footer img {
   margin: 0 auto;
   max-width: 150px;
   text-align: left;
+}
+
+
+.home-title {
+  font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+  font-size: 2em;
+}
+.msg {
+  background-color: #6f7364;
+  line-height: 1.5em;
+}
+
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
 }
