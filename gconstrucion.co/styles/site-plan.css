@@ -138,7 +138,7 @@ nav a:hover {
   grid-template-areas: ". . home home . ."
     ". . . top . ."
     ". left left right right ."
-    "page 2. . page 3page3";
+    "page 2. . page 3 page3";
 }
 .sitemap > div {
 
